@@ -1,6 +1,5 @@
 # noahburchell
 
 ### about me:
-- 18
 - gentoo linux
-- c
+- c programming language
